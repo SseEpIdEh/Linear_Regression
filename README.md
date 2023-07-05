@@ -53,13 +53,13 @@ The project will cover the following key aspects:
 
 ****
 
-******Real Estate Price Prediction Model***
+**Real Estate Price Prediction Model:***
+
 This project focuses on developing a machine learning model to predict housing prices for regions in the USA. The model aims to assist real estate agents by providing accurate price estimates based on various features of a house. With this model, your neighbor, a real estate agent, can input specific details of a house and receive an estimated selling price, enabling better decision-making and serving clients more effectively.
 
-the steps are the same like pervious projects....
+the steps are the same like pervious projects
 
-**Contributions**
-Contributions to this project are highly appreciated! If you have any suggestions, bug fixes, or additional features to add, please feel free to create a pull request. Let's collaborate and enhance the Ecommerce Clothing Sales Analysis project together.
+
 
 
 
