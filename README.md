@@ -1,7 +1,8 @@
 # Linear_Regression
 **Welcome to the Linear Regression project! This repository contains Python code that demonstrates linear regression, a popular machine learning algorithm for predicting a continuous target variable based on one or more input features.**
 
-**Introduction**
+**Introduction:**
+
 Linear regression is a statistical modeling technique that assumes a linear relationship between the input variables (features) and the target variable. It finds the best-fitting line that minimizes the difference between the predicted and actual values. Linear regression is widely used for tasks such as predicting house prices, stock market analysis, and sales forecasting.
 
 
