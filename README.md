@@ -9,13 +9,18 @@ Linear regression is a statistical modeling technique that assumes a linear rela
 
 FOR MORE INFORMATION:
 
-Methods Covered This project covers the following methods and concepts related to linear regression:
+This project covers the following methods and concepts related to linear regression:
 
 Simple Linear Regression: Demonstrates linear regression with a single input feature.
+
 Multiple Linear Regression: Extends the simple linear regression to handle multiple input features.
+
 Data Preprocessing: Discusses common data preprocessing steps such as handling missing values, feature scaling, and categorical variable encoding.
+
 Model Evaluation: Explains various evaluation metrics, including mean squared error (MSE), R-squared, and adjusted R-squared.
+
 Model Interpretation: Discusses how to interpret the coefficients and make predictions using the trained linear regression model.
+
 
 
 Project :
