@@ -24,20 +24,30 @@ Model Interpretation: Discusses how to interpret the coefficients and make predi
 
 
 **Project:**
+
 Ecommerce Clothing Sales Analysis
 
 This project aims to analyze the sales data of an Ecommerce company based in New York City that sells clothing online. The company also offers in-store style and clothing advice sessions to customers. The analysis will provide valuable insights into customer behavior, preferences, and trends, which can help optimize sales strategies and improve the overall customer experience.
 
-Project Overview:
-**The project will cover the following key aspects:**
+**Project Overview:**
+
+The project will cover the following key aspects:
+
 
 1.Data Exploration: Analyze the provided sales dataset to understand its structure, variables, and overall distribution of data.
+
 2.Data Preprocessing: Perform necessary data cleaning, handling missing values, and feature engineering to prepare the data for analysis.
+
 3.Exploratory Data Analysis (EDA): Explore the dataset to identify patterns, correlations, and trends in customer behavior, product preferences, and sales performance.
+
 4.Customer Segmentation: Group customers based on their purchasing behavior, demographics, or other relevant factors to better understand different customer segments.
+
 5.Sales Performance Analysis: Analyze sales data to identify the most profitable products, popular categories, and peak sales periods.
+
 6.Recommender System: Develop a recommendation engine that suggests personalized clothing items based on customer preferences and past purchases.
+
 7.Visualization: Create visualizations (e.g., charts, graphs, and plots) to effectively communicate insights and findings from the analysis.
+
 
 
 
