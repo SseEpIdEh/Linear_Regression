@@ -23,9 +23,10 @@ Model Interpretation: Discusses how to interpret the coefficients and make predi
 
 
 
-Project :
-**Ecommerce Clothing Sales Analysis**
-**This project aims to analyze the sales data of an Ecommerce company based in New York City that sells clothing online. The company also offers in-store style and clothing advice sessions to customers. The analysis will provide valuable insights into customer behavior, preferences, and trends, which can help optimize sales strategies and improve the overall customer experience.**
+**Project:**
+Ecommerce Clothing Sales Analysis
+
+This project aims to analyze the sales data of an Ecommerce company based in New York City that sells clothing online. The company also offers in-store style and clothing advice sessions to customers. The analysis will provide valuable insights into customer behavior, preferences, and trends, which can help optimize sales strategies and improve the overall customer experience.
 
 Project Overview:
 **The project will cover the following key aspects:**
